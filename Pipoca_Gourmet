@@ -1,0 +1,97 @@
+---------------------------------------------HTML --------------------------------- HTML ----------------------------------------------- HTML-------------------------
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<title> Pipoca Gourmet Curitiba</title>
+	<meta charset="utf-8" />
+	 <link href="css/style.css" type="text/css" rel="stylesheet"/>
+
+	 <div class="Titulo" > <h1> PIPOCA GOURMET CURITIBA</h1> </div>
+
+</head>
+
+<body>
+
+
+<div class="Sabor_Caramelo" > <h2> Pipoca Gourmet Sabor Caramelo </h2> </div> <br>
+
+<div class="Imagem_pipoca_caramelo"> <Img src= "C:\Users\Patricia jaqueline\Desktop\Curso Web master\Aulas\Imagens\Imagem_pipoca_caramelo.png" width="300" /> </div> <br>
+
+<div class="Sabor_Chocolate"> <h2> Pipoca Gourmet Sabor Chocolate </h2> </div> <br>
+
+<div class="Imagem_pipoca_chocolate"> <Img src="C:\Users\Patricia jaqueline\Desktop\Curso Web master\Aulas\Imagens\Imagem_pipoca_chocolate.png.png" width="300" /> </div> <br>
+
+<div class="Leite_Ninho"> <h2> Pipoca Gourmet Sabor Leite Ninho </h2> </div> <br>
+
+<div class="Imagem_pipoca_leite_ninho"> <img src=" C:\Users\Patricia jaqueline\Desktop\Curso Web master\Aulas\Imagens\Imagem_pipoca_leite_ninho.png" width="300" /> </div> <br>
+
+
+
+</body>
+
+</html>
+
+---------------------------------------------CSS --------------------------------- CSS ----------------------------------------------- CSS-------------------------
+
+*{ margin:0;
+	padding:0;
+}
+
+html,body{
+	height: 100%;
+	}
+
+.Titulo{
+	text-align: center;
+	font-size: 40;
+	border: solid 10px;
+	border-radius: 30px;
+	border-color: red;
+	margin: 25px 100px 100px 100px;
+
+	}
+
+.Sabor_Caramelo{
+	margin-right: 75%;
+	text-align: left;
+	font-size: 40;
+	border: solid 5px ;
+	border-color: orange;
+	border-radius: 20px;
+	}
+
+
+
+.Imagem_pipoca_caramelo{
+
+	
+
+	}
+
+.Sabor_Chocolate{
+	margin-right: 75%;
+	text-align: left;
+	font-size: 40;
+	border:solid 5px;
+	border-color: brown;
+	border-radius: 20px;
+
+	}
+
+.Imagem_pipoca_chocolate{
+	
+
+
+	}
+
+.Leite_Ninho{
+	margin-right: 75%;
+	text-align: left;
+	font-size: 40;
+	border:solid 5px;
+	border-color: yellow;
+	border-radius: 20px;
+
+	}
